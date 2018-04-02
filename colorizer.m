@@ -1,5 +1,6 @@
 %%Achmad Baskara
-%%10/21/17
+%%10/21/17 -Start V
+%%04/02/18 -Current V
 %%Black and white photo colorizer
 
 %%Original RGB image
